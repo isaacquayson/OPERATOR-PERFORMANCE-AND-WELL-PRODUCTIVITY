@@ -117,3 +117,7 @@ This project demonstrates how **data analytics and Power BI visualization** can 
 --- 
 ### Visuals
 ![](https://github.com/isaacquayson/OPERATOR-PERFORMANCE-AND-WELL-PRODUCTIVITY/blob/main/Screenshot%202025-10-24%20211522.png)
+
+---
+### Map
+![](https://github.com/isaacquayson/OPERATOR-PERFORMANCE-AND-WELL-PRODUCTIVITY/blob/main/Screenshot%202025-10-25%20025741.png)
