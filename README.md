@@ -110,3 +110,4 @@ Gas extraction dominated the operations, led by *Dominion Natural Gas Company Lt
 This project demonstrates how **data analytics and Power BI visualization** can uncover performance patterns, support data-driven decision-making, and guide future drilling strategies for more efficient and productive operations.
 
 
+![](https://github.com/isaacquayson/OPERATOR-PERFORMANCE-AND-WELL-PRODUCTIVITY/blob/main/Screenshot%202025-10-24%20211500.png)
